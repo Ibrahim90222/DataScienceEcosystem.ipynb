@@ -1,4 +1,3 @@
-# DataScienceEcosystem.ipynb
 {
  "cells": [
   {
